@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+label{
+    display: block;
+}
+
+div{
+    margin: 0 auto;
+    text-align: center;
+    max-width: 480px;
+}
+
+header, footer, main{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#age-input{
+    padding-top: 12px;
+}
+
+footer{
+    margin-top: 10px;
+}
